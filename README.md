@@ -14,7 +14,8 @@ A simple and efficient Java-based Weather Application that fetches and displays 
 ---
 
 ### 📸 Screenshot (Optional)
-> <img width="1919" height="678" alt="image" src="https://github.com/user-attachments/assets/6fa16286-e443-4e09-b766-fbba7e832ccf" />
+<img width="1919" height="678" alt="image" src="https://github.com/user-attachments/assets/e91fd78c-a5ec-41b0-97e1-bd7b10a67a25" />
+
 
 ---
 
